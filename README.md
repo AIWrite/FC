@@ -1,2 +1,2 @@
 # FC
-Flash Card Application.
+Flash Card - Web Application
